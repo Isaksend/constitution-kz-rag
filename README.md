@@ -16,6 +16,7 @@ Constitution AI Assistant Interface ![image](https://github.com/user-attachments
 Document Processing ![image](https://github.com/user-attachments/assets/a25566c5-4bf2-4baf-9644-c2d1d493f863)
 Question Answering ![image](https://github.com/user-attachments/assets/87c769c8-ab7e-473a-ba9a-625dba7e84f9)
 ![image](https://github.com/user-attachments/assets/84707560-c7e0-4a10-8bf0-aab358d05ff7)
+Checking History of Chat ![image](https://github.com/user-attachments/assets/8b16e75b-a305-49d3-a03c-c52a86e36033)
 
 
 ## Technologies Used
