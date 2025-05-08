@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+pymongo
+sentence-transformers
+requests
+beautifulsoup4
+python-dotenv
+ollama
