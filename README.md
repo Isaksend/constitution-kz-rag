@@ -12,9 +12,9 @@ An AI-powered assistant that can answer questions about the Constitution of the 
 
 ## Screenshots
 
-![Constitution AI Assistant Interface]![image](https://github.com/user-attachments/assets/0f65fe09-5535-4c85-b284-fe2d5087e9a0)
-![Document Processing]![image](https://github.com/user-attachments/assets/a25566c5-4bf2-4baf-9644-c2d1d493f863)
-![Question Answering]![image](https://github.com/user-attachments/assets/87c769c8-ab7e-473a-ba9a-625dba7e84f9)
+Constitution AI Assistant Interface ![image](https://github.com/user-attachments/assets/0f65fe09-5535-4c85-b284-fe2d5087e9a0)
+Document Processing ![image](https://github.com/user-attachments/assets/a25566c5-4bf2-4baf-9644-c2d1d493f863)
+Question Answering ![image](https://github.com/user-attachments/assets/87c769c8-ab7e-473a-ba9a-625dba7e84f9)
 ![image](https://github.com/user-attachments/assets/84707560-c7e0-4a10-8bf0-aab358d05ff7)
 
 
